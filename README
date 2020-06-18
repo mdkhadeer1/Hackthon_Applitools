@@ -1,0 +1,33 @@
+# Hackthon_Applitools
+--> In this project we have created 3 classes for 3 Tasks
+
+#--> To Execute the classes -1 (UFG_Hackathon_Task1.java)<----#
+
+--> Please add your Chrome browser driver path at the line of 24
+--> Please add your applitools API-Key at the line of 54
+--> Please change the URL to V2 (https://demo.applitools.com/gridHackathonV2.html) after execution of the V1 at the line of 90
+
+
+#----> To Execute the class-2 (UFG_Hackathon_Task2.java) <----#
+
+--> Please add your Chrome browser driver path at the line of 22
+--> Please add your applitools API-Key at the line of 52
+--> Please change the URL to V2 (https://demo.applitools.com/gridHackathonV2.html) after execution of the V1 at the line of 84
+
+
+
+#----> To Execute the class-3 (UFG_Hackathon_Task3.java) <----#
+
+--> Please add your Chrome browser driver path at the line of 22
+--> Please add your applitools API-Key at the line of 52
+--> Please change the URL to V2 (https://demo.applitools.com/gridHackathonV2.html) after execution of the V1 at the line of 82
+
+
+---> How to Run <---
+-> For each class right click on the class and select "RUN AS" option and click on "Run as Java application "
+
+
+--> For Traditional execution results report <----
+-->Please find the "Traditional-V1-TestResults" file in root folder
+-->Please find the "Traditional-V2-TestResults" file in root folder
+
